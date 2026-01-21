@@ -12,7 +12,7 @@
 
    <?php
 
-   if(|is_page('landing-page'));?>
+   if(is_page('landing-page'));?>
 
    <section class="menu-area">
      
