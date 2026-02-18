@@ -85,7 +85,7 @@ register_sidebar(
 
 }
 
-add action('widgets init','wpdevs sidebars');
+add_action('widgets init','wpdevs sidebars');
 
 
 
